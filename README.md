@@ -1,4 +1,10 @@
-## Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> I'm @JozzefBar <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp;
+
+<!--
+## Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> I'm @JozzefBar <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">&nbsp; 
+-->
+
+
+![Header](./github-header-image.png)
 
  - 👀 I’m interested in sport/technology
  - 🌱 I’m currently learning various programming languages at STU FEI
