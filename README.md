@@ -6,7 +6,7 @@
 ![Header](./github-header-image.png)
 
  - <img src="https://github.com/user-attachments/assets/d3ddb84f-637d-4c4b-a629-2cbf9d1f832d" width="25"> I’m interested in sport/technology
- - <img src="https://github.com/user-attachments/assets/df48d479-8485-40b9-8c00-9c03824b8ca6" width="25"> I’m currently learning various programming languages at STU FEI
+ - <img src="https://github.com/user-attachments/assets/9c1d34a0-7357-452d-8672-84cb016580bf" width="25"> I’m currently learning various programming languages at STU FEI
  - <img src="https://github.com/user-attachments/assets/1730ac89-69a9-4a52-87ad-ffa3aeec1a36" width="25"> I’m looking to collaborate on anything new that will give me valuable experience and help me grow as a developer.
  - <img src="https://github.com/user-attachments/assets/8da753f5-18a9-44f5-98a3-d3a752bc2416" width="25"> How to reach me: jbarcakw@gmail.com
  - <img src="https://github.com/user-attachments/assets/2a1664cb-8f49-447f-8377-d3b5e8b8426e" width="25"> Fun fact: Because of my passion for sports, I once sustained several injuries, including a torn ACL, MCL, a ruptured meniscus, and even a bone fragment fracture.
