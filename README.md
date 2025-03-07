@@ -35,8 +35,8 @@
 
 ---
 
+<div>
   <details>
-    <div>
   <summary><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25">&nbsp; Why I choose computer science?</summary>
     <p>When I had to choose my graduation subjects in high school, I had no idea what might interest me. I thought for a long time about what I could focus on. I knew, since I was at a grammar school, that I didn't do well in subjects that required a lot of memorization, like biology or civic education. I've always been more inclined toward logical thinking, although I never excelled in math.</p>
     <p>By process of elimination, I chose computer science and mathematics. Computer science became my greatest interest when COVID hit. Since many people weren't studying, I helped my entire class with programming assignments, and that's when I learned most about programming in Python. That's when I really fell in love with programming, although my true passion has always been sports, but I wasn't lucky in that area.</p>
@@ -44,9 +44,9 @@
     <p align="center">
       <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
     </p>
-     </div>
-  </details>
 
+  </details>
+</div>
 
 <!--
 <details>
