@@ -35,7 +35,7 @@
 
 ---
 
-<!--
+
 <details>
   <summary><h3><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25">&nbsp; Why I choose computer science?</h3></summary>
   <div>
@@ -47,8 +47,8 @@
     </p>
   </div>
 </details>
--->
 
+<!--
 <details>
   <summary><h3><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25">&nbsp; Why I choose computer science?</h3></summary>
   <div>
@@ -58,7 +58,7 @@
     <p>So, I decided to pursue what I was best at in high school, and that was computer science. Now, I am studying Computer Science at Slovak University of Technology in Bratislava (STU) in Bratislava. I'm still struggling with all the math courses, but I know I can handle it. Even though I haven't graduated yet, I'm confident that I made the best decision to study IT.</p>
   </div>
 </details>
-
+-->
 <!--
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JozzefBar&show_icons=true&locale=en&layout=compact" alt="JozzefBar" /></p>
 ––>
