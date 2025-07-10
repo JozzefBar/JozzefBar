@@ -11,7 +11,7 @@
  - <img src="https://github.com/user-attachments/assets/8da753f5-18a9-44f5-98a3-d3a752bc2416" width="25"> How to reach me: jbarcakw@gmail.com
  - <img src="https://github.com/user-attachments/assets/2a1664cb-8f49-447f-8377-d3b5e8b8426e" width="25"> Fun fact: Because of my passion for sports, I once sustained several injuries, including a torn ACL, MCL, a ruptured meniscus, and even a bone fragment fracture.
   (After a year of believing all these injuries had been treated, my doctor informed me that only the ACL reconstruction was performed — the other injuries were never operated on, as the MRI report had overestimated the severity of the ruptures.
-  When the doctor explained it to me, I didn’t fully understand it at the time. )
+  When the doctor explained it to me, I didn’t fully understand it at the time.)
 
 ---
 
